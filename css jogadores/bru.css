@@ -1,0 +1,15 @@
+body{
+    background-image: url(https://cdn.esbrasil.com.br/wp-content/uploads/2024/05/Bruninho_Brasil_Volei-Renata.jpg);
+    background-size: 102%;
+}
+
+h2{
+    color: black;
+    background-color: rgb(230, 222, 177);
+    border-radius: 6px;
+}
+p{
+    color: black;
+    background-color: rgb(230, 222, 177);
+    border-radius: 6px;
+}

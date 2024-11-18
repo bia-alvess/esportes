@@ -1,0 +1,18 @@
+
+.icon-box {
+    text-align: center;
+    padding: 20px;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    transition: transform 0.3s ease;
+}
+.icon-box:hover { 
+    transform: translateY(-10px); /* é um seletor pseudo-classe que aplica estilos quando o usuário passa o mouse sobre o elemento.*/
+}
+.section-title {
+    margin-bottom: 30px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 2rem;
+    color: #007bff;
+}

@@ -1,0 +1,20 @@
+img{
+    max-width: 602px;
+    
+}
+
+body{
+    background-image: url(https://media.vanityfair.com/photos/625ed168ad9d3f02ae020471/3:2/w_2520,h_1680,c_limit/515125316) ;
+    background-size: 85%;
+}
+
+h2{
+    color: black;
+    background-color: rgb(248, 194, 124);
+    border-radius: 10px;
+}
+p{
+    color: black;
+    background-color: rgb(248, 194, 124);
+    border-radius: 10px;
+}

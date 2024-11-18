@@ -1,0 +1,22 @@
+img{
+    max-width: 602px;
+    
+}
+
+.pele{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+body{
+    background-image: url(https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcSa0J4MMMVK7gL6xLluzhDQe9Fi1quO0m3MnZwY_GxDIAgSjuxBUt9ubP4XN1M2h8hdsvn-IQpMqYidwAg)
+}
+p{
+    color: aliceblue;
+}
+h2{
+   color: aliceblue;
+
+    
+}

@@ -1,0 +1,14 @@
+body{
+    background-image: url(https://noataque.com.br/wp-content/uploads/2023/10/flavia-saraiva.jpg);
+    background-size: 90%;
+}
+h2{
+    color: rgb(0, 0, 0);
+    background-color: rgb(240, 228, 252);
+    border-radius: 10px;
+}
+p{
+    color: rgb(0, 0, 0);
+    background-color: rgb(240, 228, 252);
+    border-radius: 10px;
+}
